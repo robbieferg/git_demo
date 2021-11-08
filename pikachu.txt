@@ -1,1 +1,2 @@
 Move: Thunderbolt
+Move: Laser Beam
